@@ -11,9 +11,9 @@ title                    : "Nitish Vikas Deshpande"
 title_separator          : "-"
 name                     : &name "Nitish Vikas Deshpande"
 description              : &description "Graduate Student at Electrical Engineering, NC State University"
-url                      : https://nitishvikasdeshpande.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nvdeshpa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nitishvikasdeshpande.github.io"
+repository               : "nvdeshpa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
