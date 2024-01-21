@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 # About Me
+* I'm Nitish Vikas Deshpande, third year Ph.D. student in [Electrical Engineering](https://www.ece.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/).
+* I am working as a graduate student researcher at UC San Diego under the supervision of Prof. Robert W. Heath Jr. I transferred my Ph.D. from [NC State ECE](https://ece.ncsu.edu/) to [UCSD ECE](https://ucsd.edu/) in Jan 2024 after getting a Master of Science degree from NC State.
 * I'm Nitish Vikas Deshpande, first year Ph.D. student in [Electrical Engineering](https://www.iitk.ac.in/ee/) at [NC State University](http://iitk.ac.in/).
 * I am working as a graduate research assistant at NC State under the guidance of Prof. Robert W. Heath Jr.
 * I graduated from [Electrical Engineering](https://www.iitk.ac.in/ee/),  [Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/) in May 2021.
