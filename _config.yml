@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nitish Vikas Deshpande"
 title_separator          : "-"
 name                     : &name "Nitish Vikas Deshpande"
-description              : &description "Graduate Student at Electrical Engineering, NC State University"
+description              : &description "Graduate Student at Electrical Engineering, UC San Diego"
 url                      : https://nvdeshpa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nvdeshpa.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nitish Vikas Deshpande"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student | Electrical Engineering, NC State University"
-  location         : "NC State University, Raleigh, NC"
+  bio              : "Ph.D. Student | Electrical Engineering, UC San Diego"
+  location         : "UC San Diego, La Jolla, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "nvdeshpa@ncsu.edu"
+  email            : "nideshpande@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
