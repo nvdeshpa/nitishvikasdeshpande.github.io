@@ -9,11 +9,10 @@ redirect_from:
 ---
 # About Me
 * I'm Nitish Vikas Deshpande, third year Ph.D. student in [Electrical Engineering](https://www.ece.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/).
-* I am working as a graduate student researcher at UC San Diego under the supervision of Prof. Robert W. Heath Jr. I transferred my Ph.D. from [NC State ECE](https://ece.ncsu.edu/) to [UCSD ECE](https://ucsd.edu/) in Jan 2024 after getting a Master of Science degree from NC State.
-* I'm Nitish Vikas Deshpande, first year Ph.D. student in [Electrical Engineering](https://www.iitk.ac.in/ee/) at [NC State University](http://iitk.ac.in/).
-* I am working as a graduate research assistant at NC State under the guidance of Prof. Robert W. Heath Jr.
-* I graduated from [Electrical Engineering](https://www.iitk.ac.in/ee/),  [Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/) in May 2021.
-* My research interest is in analysis and design of wireless communication systems. I have used tools from signal processing, information theory, estimation theory, optimization theory, and stochastic geometry. I am also interested in applying tools from electromagnetism, circuit theory, and machine learning for problems in wireless communication.
+* I am working as a graduate student researcher at UC San Diego under the supervision of Prof. Robert W. Heath Jr. I transferred my Ph.D. from [NC State ECE](https://ece.ncsu.edu/) to [UCSD ECE](https://ucsd.edu/) in Jan 2024 after getting a Master of Science degree in Electrical Engineering from NC State in Dec 2023.
+* I completed my B.Tech from [Electrical Engineering](https://www.iitk.ac.in/ee/),  [Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/) in May 2021.
+* My research interest is analyzing and designing wireless communication systems, focusing on wideband and large-array MIMO systems. I apply a physically consistent circuit theory approach to model communication systems, bridging the gap between EM theory and information theory.
+* I completed two summer internships at the Radio Systems Research Group of Nokia Bell Labs. For the summer 2023 internship at Nokia Bell Labs, I received the "Outstanding student research" award. 
 
 News and Updates
 ---
