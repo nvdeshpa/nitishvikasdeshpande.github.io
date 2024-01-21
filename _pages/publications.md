@@ -20,7 +20,13 @@ author_profile: true
 <br>
 <b>[Analysis of dense array massive MIMO with practical constraints](https://ieeexplore.ieee.org/abstract/document/10104538)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan, Miguel R. Castellanos, and Robert W. Heath Jr.
-<i> WSA & SCC 2023; 26th International ITG Workshop on Smart Antennas and 13th Conference on Systems, Communications, and Coding, Braunschweig, Germany, March 2023</i>
+<i> in Proc. WSA & SCC 2023; 26th International ITG Workshop on Smart Antennas and 13th Conference on Systems, Communications, and Coding, Braunschweig, Germany, March 2023</i>
+
+<br>
+<b>[Nonuniform true time delay precoding in wideband MISO systems](https://ieeexplore.ieee.org/abstract/document/10051948)</b> <br> 
+<b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, and Robert W. Heath Jr.
+<i> in Proc. 2022 56th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Nov 2022.</i>
+
 
 
 <br>
