@@ -6,14 +6,19 @@ author_profile: true
 
 ### Journal Articles
 <br>
+<b>[A generalization of the achievable rate of a MISO system using Bode‑Fano wideband matching theory](https://arxiv.org/pdf/2310.09723v1.pdf)</b> <br> 
+<b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan, and Robert W. Heath Jr.,
+<i> under major revision in IEEE Transactions on Wireless Communications 2023 .</i>
+
+<br>
 <b>[A Wideband Generalization of the Near-Field Region for Extremely Large Phased-Arrays](https://ieeexplore.ieee.org/document/10002944)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan, and Robert W. Heath Jr.
-<i> IEEE Wireless Communications Letters .</i>
+<i> IEEE Wireless Communications Letters 2022.</i>
 
 <br>
 <b>[Spatially-Correlated IRS-Aided Multi-User FD mMIMO Systems: Analysis And Optimization](https://ieeexplore.ieee.org/document/9738998)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, S. Dey, D. Amudala, and R. Budhiraja
-<i> IEEE Transactions on Communications .</i>
+<i> IEEE Transactions on Communications 2022.</i>
 
 
 ### Conference Articles
