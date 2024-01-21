@@ -18,9 +18,13 @@ Full‑Duplex Communications, Madrid, Spain, Dec 2021.</i>
 
 
 ### Journal Articles
+<br>
+<b>[A Wideband Generalization of the Near-Field Region for Extremely Large Phased-Arrays](https://ieeexplore.ieee.org/document/10002944)</b> <br> 
+<b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan, and Robert W. Heath Jr.
+<i> IEEE Wireless Communications Letters .</i>
 
 <br>
-<b>[Spatially-Correlated IRS-Aided Multi-User FD mMIMO Systems: Analysis And Optimization](https://ieeexplore.ieee.org/abstract/document/9738998)</b> <br> 
+<b>[Spatially-Correlated IRS-Aided Multi-User FD mMIMO Systems: Analysis And Optimization](https://ieeexplore.ieee.org/document/9738998)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, S. Dey, D. Amudala, and R. Budhiraja
-<i> IEEE Transactions on Communications ( Early Access ).</i>
+<i> IEEE Transactions on Communications .</i>
 
