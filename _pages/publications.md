@@ -22,6 +22,12 @@ author_profile: true
 
 
 ### Conference Articles
+
+<br>
+<b>Achievable rate of a SISO system under wideband matching network constraints</b> <br> 
+<b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan,  and Robert W. Heath Jr.
+<i> in Proc. 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, Dec 2023.</i>
+
 <br>
 <b>[Analysis of dense array massive MIMO with practical constraints](https://ieeexplore.ieee.org/abstract/document/10104538)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan, Miguel R. Castellanos, and Robert W. Heath Jr.
@@ -31,8 +37,6 @@ author_profile: true
 <b>[Nonuniform true time delay precoding in wideband MISO systems](https://ieeexplore.ieee.org/abstract/document/10051948)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, and Robert W. Heath Jr.
 <i> in Proc. 2022 56th Asilomar Conference on Signals, Systems, and Computers, Pacific Grove, CA, Nov 2022.</i>
-
-
 
 <br>
 <b>[Analysis of Statistical CSI‑based Optimized Phase‑Shift IRS‑aided FD mMIMO System](https://ieeexplore.ieee.org/abstract/document/9685692)</b> <br> 
