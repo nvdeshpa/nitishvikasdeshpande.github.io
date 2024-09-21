@@ -24,7 +24,7 @@ author_profile: true
 ### Conference Articles
 
 <br>
-<b>Achievable rate of a SISO system under wideband matching network constraints</b> <br> 
+<b>[Achievable rate of a SISO system under wideband matching network constraints](https://ieeexplore.ieee.org/document/10437975)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan,  and Robert W. Heath Jr.
 <i> in Proc. 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, Dec 2023.</i>
 
