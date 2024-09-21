@@ -6,9 +6,9 @@ author_profile: true
 
 ### Journal Articles
 <br>
-<b>[A generalization of the achievable rate of a MISO system using Bode‑Fano wideband matching theory](https://arxiv.org/pdf/2310.09723v1.pdf)</b> <br> 
+<b>[A generalization of the achievable rate of a MISO system using Bode‑Fano wideband matching theory](https://ieeexplore.ieee.org/document/10536063)</b> <br> 
 <b>Nitish Vikas Deshpande</b>, Miguel R. Castellanos, Saeed R. Khosravirad,  Jinfeng Du, Harish Viswanathan, and Robert W. Heath Jr.,
-<i> under major revision in IEEE Transactions on Wireless Communications 2023 .</i>
+<i> in IEEE Transactions on Wireless Communications 2024 .</i>
 
 <br>
 <b>[A Wideband Generalization of the Near-Field Region for Extremely Large Phased-Arrays](https://ieeexplore.ieee.org/document/10002944)</b> <br> 
