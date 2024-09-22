@@ -58,8 +58,12 @@ using a multi-port circuit theory approach
 <img src="https://nvdeshpa.github.io/files/NF_WB.png" width="750" height="180" style="float:top">
 <br>
 1) Analyzed beamforming gain for a general near-field and wideband channel
+<br>
 2) Proposed a frequency-selective distance metric to determine the far-field to near-field boundary for a wideband system
+<br>
 3) Uncovered a fundamental tradeoff between the aperture and bandwidth
 <br>
 Journal paper: [A wideband generalization of the near-field region for extremely large phased-arrays](https://ieeexplore.ieee.org/abstract/document/10002944)
+<br>
+[Poster](https://nvdeshpa.github.io/files/wnf_poster_v1.pdf) presented in the ECE GSA event at NC State
 <br>
