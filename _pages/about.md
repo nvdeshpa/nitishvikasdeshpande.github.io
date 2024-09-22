@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 # About Me
-* I'm Nitish Vikas Deshpande, fourth year Ph.D. student in [Electrical Engineering](https://www.ece.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/).
-* I am working as a graduate student researcher at UC San Diego under the supervision of [Prof. Robert W. Heath Jr](https://profheath.org/). I transferred my Ph.D. from [NC State ECE](https://ece.ncsu.edu/) to [UCSD ECE](https://ucsd.edu/) in Jan 2024 after getting a Master of Science degree in Electrical Engineering from NC State in Dec 2023.
-* I completed my B.Tech from [Electrical Engineering](https://www.iitk.ac.in/ee/),  [Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/) in May 2021.
+* I'm Nitish Vikas Deshpande, fourth year Ph.D. student in [Electrical Engineering](https://www.ece.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). I am working as a graduate student researcher at UC San Diego under the supervision of [Prof. Robert W. Heath Jr](https://profheath.org/). I transferred my Ph.D. from [NC State ECE](https://ece.ncsu.edu/) to [UCSD ECE](https://ucsd.edu/) in Jan 2024 after getting a Master of Science degree in Electrical Engineering from NC State in Dec 2023.  I completed my B.Tech from [Electrical Engineering](https://www.iitk.ac.in/ee/),  [Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/) in May 2021.
 * My research interest is analyzing and designing wireless communication systems, focusing on wideband, large-array, and reconfigurable antenna based MIMO systems. I apply a physically consistent circuit theory approach to model communication systems, bridging the gap between EM theory and information theory.
-* In summer of 2024, I interned in the Modem Systems team in Qualcomm working on channel estimation for the 5G modem.
-* I completed two summer internships at the Radio Systems Research Group of Nokia Bell Labs in 2022 and 2023. For the summer 2023 internship at Nokia Bell Labs, I received the "Outstanding student research" award.
-* For the academic year 2023-2024, our team at NC State received the Qualcomm Innovation Fellowship award for the project "Hybrid beamforming using dynamic metasurface antennas for wideband massive MIMO."
+* In summer of 2024, I interned in the Modem Systems team in Qualcomm working on channel estimation for the 5G modem. I completed two summer internships at the Radio Systems Research Group of Nokia Bell Labs in 2022 and 2023. For the summer 2023 internship at Nokia Bell Labs, I received the "Outstanding student research" award. For the academic year 2023-2024, our team at NC State received the Qualcomm Innovation Fellowship award for the project "Hybrid beamforming using dynamic metasurface antennas for wideband massive MIMO."
 
 News and Updates
 ---
