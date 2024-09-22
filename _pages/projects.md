@@ -16,8 +16,8 @@ Proposed a general bound on the MISO achievable rate over all linear and passive
 <br>
 Developed a practical approach to approximate the achievable rate bound using ADS circuit design software
 <br>
-Conference paper: [Achievable rate of a SISO system under wideband matching network constraints](https://ieeexplore.ieee.org/document/10437975)
+<b></b>Conference paper: [Achievable rate of a SISO system under wideband matching network constraints](https://ieeexplore.ieee.org/document/10437975)</b>
 <br>
-Journal paper: [A generalization of the achievable rate of a MISO system using Bode-Fano wideband matching theory](https://ieeexplore.ieee.org/document/10536063)
+<b>Journal paper: [A generalization of the achievable rate of a MISO system using Bode-Fano wideband matching theory](https://ieeexplore.ieee.org/document/10536063)</b>
 <br>
-[Poster](https://nvdeshpa.github.io/files/Research_expo_wideband_matching_Nitish_V3.pdf) presented at CWC event and San Diego wireless summit in 2024
+<b>[Poster](https://nvdeshpa.github.io/files/Research_expo_wideband_matching_Nitish_V3.pdf) presented at CWC event and San Diego wireless summit in 2024 </b>
