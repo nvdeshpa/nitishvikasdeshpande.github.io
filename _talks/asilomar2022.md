@@ -1,7 +1,7 @@
 ---
 title: "Asilomar 2022"
 collection: talks
-type: "Talk"
+type: "Poster"
 permalink: /talks/asilomar2022
 venue: "Pacific Grove, CA, USA"
 date: "Oct 28, 2022"
