@@ -12,6 +12,7 @@ redirect_from:
 * I am working as a graduate research assistant at NC State under the guidance of Prof. Robert W. Heath Jr.
 * I graduated from [Electrical Engineering](https://www.iitk.ac.in/ee/),  [Indian Institute of Technology, Kanpur, India](http://iitk.ac.in/) in May 2021.
 * My research interest is in analysis and design of wireless communication systems. I have used tools from signal processing, information theory, estimation theory, optimization theory, and stochastic geometry. I am also interested in applying tools from electromagnetism, circuit theory, and machine learning for problems in wireless communication.
+* Check out the most recent website at https://nvdeshpa.github.io/
 
 News and Updates
 ---
