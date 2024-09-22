@@ -12,10 +12,11 @@ MIMO communication theory has advanced separately from progress in circuits and 
 <br>
 <br>
 
-<img src="https://nvdeshpa.github.io/files/achievable_rate_optim_matching_con.png" width="750" height="180" style="float:top">
+
 <br>
 <b> Project 1:  Achievable rate analysis under Bode-Fano wideband matching constraints</b> 
 <br>
+<img src="https://nvdeshpa.github.io/files/achievable_rate_optim_matching_con.png" width="750" height="180" style="float:top">
 <br>
 1) Proposed a general bound on the MISO achievable rate over all linear and passive matching networks
 <br>
@@ -29,10 +30,11 @@ Journal paper: [A generalization of the achievable rate of a MISO system using B
 <br>
 
 
-<img src="https://nvdeshpa.github.io/files/parasitic_reconfigurable_beamforming.png" width="750" height="180" style="float:top">
+
 <br>
 <b> Project 2: Reconfigurable parasitic array beamforming</b> 
 <br>
+<img src="https://nvdeshpa.github.io/files/parasitic_reconfigurable_beamforming.png" width="750" height="180" style="float:top">
 <br>
 1) Developing optimization methods for configuring parasitic antenna array
 using a multi-port circuit theory approach
