@@ -81,7 +81,8 @@ Conference paper: [Nonuniform true time delay precoding in wideband MISO systems
 <br>
 [Poster](https://nvdeshpa.github.io/files/asilomar__poster_v1.pdf) presented in the Asilomar conference in 2022
 <br>
-
+<br>
+<br>
 
 <b> Undergraduate research </b> 
 
@@ -97,3 +98,13 @@ Conference paper: [Analysis of Statistical CSI-based Optimized Phase-Shift IRS-a
 Journal paper: [Spatially-Correlated IRS-Aided Multi-User FD mMIMO Systems: Analysis And Optimization](https://ieeexplore.ieee.org/document/9738998)
 <br>
 
+
+<br>
+<b> Project 2: Heterogeneous Cellular Networks analysis using stochastic geometry</b> 
+<br>
+<img src="https://nvdeshpa.github.io/files/hetnets_stochastic_geometry.png" width="750" height="180" style="float:top">
+<br>
+1)Derived exact expressions of spectral efficiency using Hamdi's Lemma approach for a typical user under a K tier Heterogeneous Network model using Poisson Cluster Process and Poisson Point Process under a max-power association scheme
+<br>
+Conference paper: [Spectral Efficiency in Poisson Cluster Based HetNets with Users-Basestations Correlation](https://ieeexplore.ieee.org/document/9342826)
+<br>
