@@ -20,4 +20,5 @@ Developed a practical approach to approximate the achievable rate bound using AD
 <br>
 <b>Journal paper: [A generalization of the achievable rate of a MISO system using Bode-Fano wideband matching theory](https://ieeexplore.ieee.org/document/10536063)</b>
 <br>
-<b>[Poster](https://nvdeshpa.github.io/files/Research_expo_wideband_matching_Nitish_V3.pdf) presented at CWC event and San Diego wireless summit in 2024 </b>
+<b>[Poster](https://nvdeshpa.github.io/files/Research_expo_wideband_matching_Nitish_V3.pdf) presented at CWC event and San Diego wireless summit in 2024</b>
+<br>
