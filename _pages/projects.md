@@ -49,3 +49,17 @@ using a multi-port circuit theory approach
 <br>
 1) Developing optimization methods for configuring dynamic metasurface antennas for wideband communication
 <br>
+
+
+
+<br>
+<b> Project 4: Analysis of near-field and wideband communication systems</b> 
+<br>
+<img src="https://nvdeshpa.github.io/files/NF_WB.png" width="750" height="180" style="float:top">
+<br>
+1) Analyzed beamforming gain for a general near-field and wideband channel
+2) Proposed a frequency-selective distance metric to determine the far-field to near-field boundary for a wideband system
+3) Uncovered a fundamental tradeoff between the aperture and bandwidth
+<br>
+Journal paper: [A wideband generalization of the near-field region for extremely large phased-arrays](https://ieeexplore.ieee.org/abstract/document/10002944)
+<br>
