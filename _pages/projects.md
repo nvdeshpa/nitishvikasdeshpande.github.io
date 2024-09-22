@@ -104,7 +104,7 @@ Journal paper: [Spatially-Correlated IRS-Aided Multi-User FD mMIMO Systems: Anal
 <br>
 <img src="https://nvdeshpa.github.io/files/hetnets_stochastic_geometry.png" width="750" height="180" style="float:top">
 <br>
-1)Derived exact expressions of spectral efficiency using Hamdi's Lemma approach for a typical user under a K tier Heterogeneous Network model using Poisson Cluster Process and Poisson Point Process under a max-power association scheme
+1)vDerived exact expressions of spectral efficiency using Hamdi's Lemma approach for a typical user under a K tier Heterogeneous Network model using Poisson Cluster Process and Poisson Point Process under a max-power association scheme
 <br>
 Conference paper: [Spectral Efficiency in Poisson Cluster Based HetNets with Users-Basestations Correlation](https://ieeexplore.ieee.org/document/9342826)
 <br>
