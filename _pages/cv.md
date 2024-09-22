@@ -9,5 +9,5 @@ redirect_from:
 
 
 {% include base_path %}
-The PDF version of my resume can be found [here](https://nvdeshpa.github.io/files/Resume_UCSD (5).pdf){:target="_blank"}.
+The PDF version of my resume can be found [here](https://nvdeshpa.github.io/files/Resume_UCSD.pdf){:target="_blank"}.
 
