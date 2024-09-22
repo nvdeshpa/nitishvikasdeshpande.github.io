@@ -5,19 +5,21 @@ permalink: /projects/
 author_profile: true
 ---
 
-Improving MIMO communication with advances from circuits and antennas 
+<b> Improving MIMO communication with advances from circuits and antennas </b> 
 <br>
 <br> 
 MIMO communication theory has advanced separately from progress in circuits and antennas. The increasing scale of antennas and bandwidth, though, now requires developing a physically consistent communication theory. Such a theory should better incorporate RF hardware and allow more accurate prediction of communication data rates and making energy efficiency tradeoffs. My research focuses on bridging the gap between conventional communication theory and antennas/EM/circuit theory.
+<br>
+<br>
 
 <img src="https://nvdeshpa.github.io/files/achievable_rate_optim_matching_con.png" width="750" height="180" style="float:top">
 <br>
-<b> Achievable rate analysis under Bode-Fano wideband matching constraints</b> 
+<b> Project 1:  Achievable rate analysis under Bode-Fano wideband matching constraints</b> 
 <br>
 <br>
-Proposed a general bound on the MISO achievable rate over all linear and passive matching networks
+1) Proposed a general bound on the MISO achievable rate over all linear and passive matching networks
 <br>
-Developed a practical approach to approximate the achievable rate bound using ADS circuit design software
+2) Developed a practical approach to approximate the achievable rate bound using ADS circuit design software
 <br>
 Conference paper: [Achievable rate of a SISO system under wideband matching network constraints](https://ieeexplore.ieee.org/document/10437975)
 <br>
@@ -29,10 +31,10 @@ Journal paper: [A generalization of the achievable rate of a MISO system using B
 
 <img src="https://nvdeshpa.github.io/files/parasitic_reconfigurable_beamforming.png" width="750" height="180" style="float:top">
 <br>
-<b> Reconfigurable parasitic array beamforming</b> 
+<b> Project 2: Reconfigurable parasitic array beamforming</b> 
 <br>
 <br>
-Developing optimization methods for configuring parasitic antenna array
+1) Developing optimization methods for configuring parasitic antenna array
 using a multi-port circuit theory approach
 <br>
 
