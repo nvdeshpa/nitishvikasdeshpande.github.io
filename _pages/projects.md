@@ -63,7 +63,21 @@ using a multi-port circuit theory approach
 <br>
 3) Uncovered a fundamental tradeoff between the aperture and bandwidth
 <br>
-Journal paper: [A wideband generalization of the near-field region for extremely large phased-arrays](https://ieeexplore.ieee.org/abstract/document/10002944)
+
+
+
+
+
 <br>
-[Poster](https://nvdeshpa.github.io/files/wnf_poster_v1.pdf) presented in the ECE GSA event at NC State
+<b> Project 5: Nonuniform true time delay precoding in wideband MISO systems</b> 
+<br>
+<img src="https://nvdeshpa.github.io/files/ttd_asilomar.png" width="750" height="180" style="float:top">
+<br>
+1) Proposed delay design  for true-time-delay beamforming architectures for a general channel with multi-path and near-field effects
+<br>
+
+
+Conference paper: [Nonuniform true time delay precoding in wideband MISO systems](https://ieeexplore.ieee.org/document/10051948)
+<br>
+[Poster](https://nvdeshpa.github.io/files/asilomar__poster_v1.pdf) presented in the Asilomar conference in 2022
 <br>
