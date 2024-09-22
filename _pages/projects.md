@@ -7,7 +7,7 @@ author_profile: true
 
 Here are the links to the major projects I have undertaken. Click on the title for a detailed description.
 
-<img src="https://nvdeshpa.github.io/files/achievable_rate_optim_matching_con.png" width="250" height="60" style="float:left">
+<img src="https://nvdeshpa.github.io/files/achievable_rate_optim_matching_con.png" width="750" height="180" style="float:top">
 <br>
 <b> Achievable rate analysis under Bode-Fano wideband matching constraints</b> 
 <br>
