@@ -34,7 +34,7 @@ Journal paper: [A generalization of the achievable rate of a MISO system using B
 <br>
 <b> Project 2: Reconfigurable parasitic array beamforming</b> 
 <br>
-<img src="https://nvdeshpa.github.io/files/parasitic_reconfigurable_beamforming.png" width="250" height="60" style="float:top">
+<img src="https://nvdeshpa.github.io/files/parasitic_reconfigurable_beamforming.png" width="750" height="180" style="float:top">
 <br>
 1) Developing optimization methods for configuring parasitic antenna array
 using a multi-port circuit theory approach
@@ -45,7 +45,7 @@ using a multi-port circuit theory approach
 <br>
 <b> Project 3: Frequency-selective beamforming and beam training with dynamic metasurface antenna</b> 
 <br>
-<img src="https://nvdeshpa.github.io/files/DMA_beamforming.png" width="750" height="180" style="float:top">
+<img src="https://nvdeshpa.github.io/files/DMA_beamforming.png" width="250" height="60" style="float:top">
 <br>
 1) Developing optimization methods for configuring dynamic metasurface antennas for wideband communication
 <br>
