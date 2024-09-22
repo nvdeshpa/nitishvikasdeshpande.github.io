@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<b> Improving MIMO communication with advances from circuits and antennas </b> 
+<b> Graduate research: Improving MIMO communication with advances from circuits and antennas </b> 
 <br>
 <br> 
 MIMO communication theory has advanced separately from progress in circuits and antennas. The increasing scale of antennas and bandwidth, though, now requires developing a physically consistent communication theory. Such a theory should better incorporate RF hardware and allow more accurate prediction of communication data rates and making energy efficiency tradeoffs. My research focuses on bridging the gap between conventional communication theory and antennas/EM/circuit theory.
@@ -81,3 +81,19 @@ Conference paper: [Nonuniform true time delay precoding in wideband MISO systems
 <br>
 [Poster](https://nvdeshpa.github.io/files/asilomar__poster_v1.pdf) presented in the Asilomar conference in 2022
 <br>
+
+
+<b> Undergraduate research </b> 
+
+<br>
+<b> Project 1:  Intelligent Reflecting Surfaces (IRS) aided Wireless Communication</b> 
+<br>
+<img src="https://nvdeshpa.github.io/files/irs.png" width="750" height="180" style="float:top">
+<br>
+1) Analysed Full Duplex Intelligent Reflecting Surface aided wireless communication model with spatially correlated channels and imperfect channel state information
+<br>
+Conference paper: [Analysis of Statistical CSI-based Optimized Phase-Shift IRS-aided FD mMIMO System](https://ieeexplore.ieee.org/document/9685692)
+<br>
+Journal paper: [Spatially-Correlated IRS-Aided Multi-User FD mMIMO Systems: Analysis And Optimization](https://ieeexplore.ieee.org/document/9738998)
+<br>
+
