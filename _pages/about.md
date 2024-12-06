@@ -17,7 +17,8 @@ News and Updates
 ### 2024
 - [Jan 2024] Transferred my PhD from NC State to UCSD and continuing research with Prof. Robert W. Heath Jr.
 - [June 2024- Sept 2024] Summer internship in Modem systems team in Qualcomm focusing on channel estimation for 5G Modem
-- [Oct 2024] Student Panelist in [Brooklyn 6G Summit](https://b6gs.com/agenda2024/) 
+- [Oct 2024] Student Panelist in [Brooklyn 6G Summit](https://b6gs.com/agenda2024/)
+- [Nov 2024] Recipient of [Shannon Graduate Fellowship](https://cmrr.ucsd.edu/events/shannon-memorial.html) for the academic year 2024-25
 
 ### 2023
 - [March 2023] Conference talk for the paper "Analysis of dense array massive MIMO with practical constraints," at WSA & SCC 2023 in Braunschweig, Germany.
